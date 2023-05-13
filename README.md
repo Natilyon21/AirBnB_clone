@@ -53,7 +53,7 @@ $ python3 unittest -m discover tests
   
 Author
 ===============================
-Name
+Name -
   NATNAEL SEWAGEGN
   
 Email
